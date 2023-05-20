@@ -1,2 +1,5 @@
 # dio-trilha-java-basico
-Repositóio para exemplos do curso de Java Básico pela DIO
+
+Repositório para exemplos do curso de Java Básico pela DIO
+
+## Exemplo do Git/Versionamento pelo Git
